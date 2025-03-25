@@ -1,0 +1,5 @@
+media
+slides
+.venv
+**__pycache__**
+.vscode
